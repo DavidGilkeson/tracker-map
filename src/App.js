@@ -1,7 +1,9 @@
+import Map from './components/Map.js';
+
 function App() {
   return (
     <div>
-      <h1>Welcome to the Tracker app</h1>
+      <Map />
     </div>
   );
 }
