@@ -1,6 +1,5 @@
 import GoogleMapReact from 'google-map-react';
 import LocationMarker from './LocationMarker';
-// require('dotenv').config;
 
 const API_KEY = process.env.REACT_APP_API_KEY;
 
